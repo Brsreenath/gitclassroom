@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4C67-8658
+
+ Directory of C:\Users\brsre\git
+
+02-12-2020  12:11    <DIR>          .
+02-12-2020  12:11    <DIR>          ..
+02-12-2020  11:48    <DIR>          gitclassroom
+02-12-2020  12:11                 0 text2.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  693,210,218,496 bytes free
